@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <title>Privacy Policy</title>
-<meta name="title" content="Privacy Policy">
-<meta name="DC.title" lang="en" content="Privacy Policy">
+<meta name="title" content="Privacy Policy ">
+<meta name="DC.title" lang="en" content="Privacy Policy ">
 <meta name="description" content="">
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -12,288 +12,114 @@
 <link rel="canonical" href="privacy-policy.html">
 <link rel="shortcut icon"  href="img/logo.jpg"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'"><link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&amp;display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style type="text/css">
-.u372da8a22afb26ba326fbafab2585b39{
-font-size: 19.8px;
-font-weight: bold;
+<style type="text/css"> 
+footer a{
+color:  #ffffff!important;
+text-decoration: underline!important;
 }
-.post-content *{
-
-font-size: 1.25rem;
-}
-.bg-new{
-background: #fd834c;
-padding: 17px 40px;
-letter-spacing: 1px;
-border-radius: 100px;
-font-weight: 900;
-font-size: 16px;
-}
-.d4ac8442961669b6aabeaec1a39dd5ec2:hover{
-box-shadow: 0 20px 40px -5px rgba(9,30,66,.3);
-border-radius: 5px;
-}
-.{
-font-size:15.1px!important;
-font-style: italic;
-margin-top: 0;
-font-style: normal;
-color: #5e5e5e;
-}
-.c77aea2667beed6de3cf76884bc4d5a42{
-color: #9a9a9a;
-font-size: 19.7px;
-margin-bottom: 20.6px;
-}
-footer{
-background:#0f0f0f;
-color:#ffffff;
-}
-.b56ddac82c01f96e498ae80eddb422e2a{
-background:#ffffff;
-}
-.w2770decc7249174707843abacc77de4a{
-color: #fff;
-background-color: #ff905b;
-border-color: #ff8954;
-display: inline-block;
-font-weight: 800;
-line-height: 1.5;
-text-align: center;
-vertical-align: middle;
-cursor: pointer;
-padding: 1rem 1.75rem;
-font-size: 0.875rem;
-border-radius: 0;
-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-}
-html{
-scroll-behavior: smooth;
-}
-.v45633791b76c1bba2e3e5519dc6b4b50{
-text-decoration: underline!important;color:#ff8117!important
-}
-.navbar-toggler span{
-display: flex;
-align-items: center;
-justify-content: center;
-border: 1px solid lightgrey;
-border-radius: 3px;
-}
-.ef1d92d7755bef2b32943ef2ca9eb7dd9{
-font-size:36px;font-weight:800
-}
-iframe{
-border: none!important;
-}
-a:hover{
-color:#ffffff;background:#ffc658!important
-}
-.t6df2706211a6f309fcf28dbf235fba66{
-transition: all 0.3s; 
-}
-h3,h2,h4,h5{
-font-weight:900;font-size:36px
-}
-.nav-item{
-padding-left:8.1px;
-padding-right:8.4px;
-padding-top:5.1px;
-padding-bottom:5.4px;
-}
-.yaf2f22f7b9b97b1713ed989306b3490a:hover,.eaf44e4523b34f31659d76774274c803c:hover{
-background-size: 100% 100% !important;
-background: #ffc658!important;
-background-repeat: no-repeat !important;
-background-position: 0 90% !important;
-transition: background-size 0.2s ease-in !important;
-}
-.ydb62126fafd6ab1108968c7546fbc37a{
-background:#FEF6EA;border-bottom:1px solid #bcbc86
-}
-.eaf44e4523b34f31659d76774274c803c{
-font-weight: inherit;
-background-image: linear-gradient(120deg, #ffd264 0%, #ffcd5f 100%);
-background-repeat: no-repeat;
-background-size: 100% 30%;
-background-position: 0 90%;
-transition: background-size 0.2s ease-in;
-}
-.b56ddac82c01f96e498ae80eddb422e2a p,.b56ddac82c01f96e498ae80eddb422e2a span,.b56ddac82c01f96e498ae80eddb422e2a label{
-font-size:16px!important;
-}
-.b56ddac82c01f96e498ae80eddb422e2a *{
-color:#0d0d0d!important;
-}
-.xfbb7da14a4530c3e294a58bd59c150f4 i{
-border-radius: 50%;
-width: 36.7px;
-line-height: 35px;
-text-align: center;
-height: 37.1px;
-}
-.a8163d2e0ea78a6fd764536cbbed517ca{
-font-weight:900;
+footer ul{
+padding-left: 0px!important;
+list-style: none;
 }
 ul{
-text-decoration:none;display:inline-block;text-align:left
+list-style: circle;
 }
-.b56ddac82c01f96e498ae80eddb422e2a a{
-font-size:16px;
+.underline .line{
+width: 5rem;
+height: 3px;
+background: linear-gradient(90deg, #a48efe,#ff545d);
+display: inline-block;
+}
+li a{
+color: #ff5d66;
+}
+.xcd82c8d400fe6405fd81c8523a90b00d{
+text-decoration: underline!important;
+}
+.navbar a{
+font-size: 17.5px;
+}
+.xd10e5d35cdd1f637b2a997da99999ad5{
+background: rgba(0,0,0,0.6);
+text-align: center;
+}
+.bb28afc29314fce49b76477b7b71c9505:hover{
+background-size: 100% 100%!important;
+color:#ffffff!important;
+background:#ffc658!important;
+background-repeat: no-repeat!important;
+background-position: 0 90%!important; 
+transition: background-size 0.2s ease-in!important;
+}
+.btn-md{
+padding:15.5px 30px;
+border-radius: 0;
+}
+a{
+text-decoration: none!important;
+}
+footer *{
+font-size:16px!important;
+color:#ffffff!important;
+line-height: 1.5;
+}
+.w18a78444f4bbed6d9bef5b0d1da6a5ec i{
+border-radius: 50%;
+width: 10mm;
+text-align: center;
+line-height: 37px;
+height: 10mm;
+}
+.nav-link{
+color: #070707 !important;
+}
+.align-self-stretch{
+ms-flex-item-align: stretch!important;
+align-self: stretch!important;
+}
+.w18a78444f4bbed6d9bef5b0d1da6a5ec i:hover{
+background: black;
+color:#ffd3d7;
+border-radius: 50%;
+width:10mm;
+text-align:center;
+height:10mm;
+}
+.t1ffa4f83024bba41228fc81ae83a8848{
+background-color:#ffc107!important;
+border-color:#ffc107!important;
+color:#000000!important;
+}
+footer{
+padding-top:59.9px;
+padding-bottom:59.8px;
+}
+.display-2{
+font-size: 44.8px;
+}
+.xd10e5d35cdd1f637b2a997da99999ad5 *{
+color:white!important;
 }
 *{
 font-family: 'Kumbh Sans', sans-serif;
 }
-.w3251776683edfb01ce98aee9a5391ace{
-background:#eae8e4!important ;
+.nav-item{
+margin-top: 9.7px;
+margin-bottom: 10.1px;
+padding-left: 7.3px;
+padding-right: 7.3px;
 }
-.c742f97f121ee8b9bf074d84eab47c566{
-color: #474747;
+.w18a78444f4bbed6d9bef5b0d1da6a5ec{
+font-size:19.9px;
+padding:9.9px;
+color: black;
 }
-.t58f02d17dec982c2f147408d54cb90a6 *{
-color: white;
-}
-footer a{
-color:#fd834c;
-text-decoration: underline;
-}
-.d4ac8442961669b6aabeaec1a39dd5ec2 > a{
-color:#000000;
-}
-.navbar{
-padding-top:42px;padding-bottom:42px;
-}
-footer *{
-font-size:16px !important;
-}
-.xfe0b5d27b48749d1a5105eed77346bc7{
-font-size:16px!important;
-color: #707070;
-}
-ul li a{
-color:#fd834c
-}
-. a{
-color: white;
-}
-h1,h2,h3,h4,h5,h6{
-font-family:Montserrat, sans-serif
-}
-.d4ac8442961669b6aabeaec1a39dd5ec2 > a > .{
-font-weight: 400;
-margin-bottom: 0.625rem;
-line-height:1.7;
-font-size:15px;
-}
-.yb169f3756a5f94fbd2d4f4a7e35a688b{
-font-size:45px!important;font-weight:600
-}
-.navbar a{
-font-size: 16px!important;
-font-weight: normal;text-transform:uppercase
-}
-.navbar-brand img{
-position:absolute;z-index:1000;top:0px;padding:20px 30px;background:white
-}
-a{
-text-decoration: none;
-}
-.xfbb7da14a4530c3e294a58bd59c150f4 i:hover{
-background: white;
-color: #ffffff;!important;
-line-height: 35px;
-border-radius: 50%;
-width: 36.6px;
-text-align: center;
-height: 36.9px;
-}
-.d4ac8442961669b6aabeaec1a39dd5ec2{
-padding: 20px;
-background: #ffffff;
-margin-bottom: 30px;
-position: relative;
-border-radius: 2px;  
-
-margin-bottom: 30px;
-transition: all 400ms;
-}
-.c6593313cd4a9695bd0c0345c0e2357de *{
-color:#000000;
-}
-.a459f01225b348bde6fdc566760c82043{
-font-size: 2rem !important;
-}
-.nav-link{
-color: #000000;
-
-}
-.t8aea52a1bea0d6dd991d6827232767a9{
-color:#000000!important;
-}
-h1{
-font-weight:900
-}
-.btn-md{
-padding: 15.1px 30.1px;
-border-radius: 0;
-}
-.d4ac8442961669b6aabeaec1a39dd5ec2 > a:focus, .d4ac8442961669b6aabeaec1a39dd5ec2 > a:hover{
-text-decoration: none;
-color: #0388a4;
-}
-body{
-color: #404040;
-}
-.b5d3c5bdd719844e995851cc01b3268d3{
-background:#fbf9f5;
-color:#0d0d0d;
-}
-.d4ac8442961669b6aabeaec1a39dd5ec2 > . > a{
-text-decoration: none;
-}
-.container{
-max-width:1300px
-}
-.justify-content-evenly{
-justify-content: space-evenly;
-}
-.b921591733eebafb04e9a255b0126d515{
-width: 100%;
-max-height: 720px;
-object-fit: cover;
-object-position: center;
-display: block;
-max-height: 100%;
-max-width: 100%;
-margin: auto;
-position: absolute;
-top: 0;
-left: 0;
-right: 0;
-}
-.a1b0d5d5d50a81b63a6d99e2b9475595a{
-    background-color: transparent;
-font-size: 23.5px;
-height: 47.8px;
-min-width: 50px;
-padding: 0.7rem;
-padding-top: 12.7px;
-color: #ffffff !important;
-border: 1px solid #ffffff;
-border-radius: 25px;
-}
-.b5d3c5bdd719844e995851cc01b3268d3 p,.b5d3c5bdd719844e995851cc01b3268d3 a,.b5d3c5bdd719844e995851cc01b3268d3 span,.b5d3c5bdd719844e995851cc01b3268d3 label{
-font-size:16px!important;
-}
-.b16834f89e80b8831d18c9b034073d48a{
-font-size: 14.1px;
-}
-    .dropdown-submenu {
+.dropdown-submenu {
     position: relative;
 }
 
@@ -407,39 +233,40 @@ font-size: 14.1px;
     max-height: 60vh;          /* scroll if long */
     overflow-y: auto;
   }
-}
+} 
 </style>
 </head>
 <body>
-<nav class="navbar container navbar-expand-lg">
-<a class="navbar-brand" href="index.html"  ><img alt="img/logo.jpg" src="img/logo.jpg" ></a>
+<nav class="navbar-expand-lg navbar">
+<a class="navbar-brand" href="index.html"  >
+
+<img alt="" src="img/logo.jpg"  ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon  fa fa-bars"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="align-items-center d-flex ml-auto navbar-nav"><li class="nav-item">
-<a class="nav-link yaf2f22f7b9b97b1713ed989306b3490a" href="index.html" >shree win forgot password</a>
-</li>
+<span class="navbar-toggler-icon fa fa-bars"></span>
+</button><div class="navbar-collapse collapse" id="navbarSupportedContent">
+<ul class="align-items-center navbar-nav ml-auto">
+<li class="nav-item"><a class="nav-link bb28afc29314fce49b76477b7b71c9505" href="index.html" >shree win live result</a></li>
+<li class="nav-item"><a class="bb28afc29314fce49b76477b7b71c9505 nav-link" href="shree-win-prediction-today.html"  >shree win prediction today</a></li>
+<li class="nav-item"><a class="bb28afc29314fce49b76477b7b71c9505 nav-link"  href="shree-win-wingo-download.html"  >shree win wingo download</a></li>
+<li class="nav-item"><a class="nav-link bb28afc29314fce49b76477b7b71c9505" href="shree-win-today-result.html"  >shree win today result</a></li>
+<li class="nav-item dropdown"><a class="nav-link bb28afc29314fce49b76477b7b71c9505  dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
+<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="shree-win-app-latest-version.html"  >shree win app latest version</a>
+<a class="dropdown-item" href="shree-win-download-for-android.html"  >shree win download for android</a>
+<a class="dropdown-item" href="shree-win-mobile-login.html"  >shree win mobile login</a>
+<a class="dropdown-item" href="shree-win-apk-latest-version.html"  >shree win apk latest version</a>
+<a class="dropdown-item" href="shree-win-colour-prediction-today.html"  >shree win colour prediction today</a>
+<a class="dropdown-item" href="shree-win-wingo-app.html"  >shree win wingo app</a>
+</div></li>
 <li class="nav-item">
-<a class="yaf2f22f7b9b97b1713ed989306b3490a nav-link" href="shree-win-india.html" >shree win india</a>
-</li>
-<li class="nav-item">
-<a class="nav-link yaf2f22f7b9b97b1713ed989306b3490a" href="shree-win-game-download.html" >shree win game download</a>
-</li>
-<li class="nav-item">
-<a class="yaf2f22f7b9b97b1713ed989306b3490a nav-link" href="shree-win-real-money-games.html" >shree win real money games</a>
-</li>
-<li class="dropdown nav-item">
-<a class="dropdown-toggle nav-link yaf2f22f7b9b97b1713ed989306b3490a" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
-<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="shree-win-app-login.html"  >shree win app login</a><a class="dropdown-item" href="shree-win-online-gaming.html"  >shree win online gaming</a><a class="dropdown-item" href="shree-win-online-login.html"  >shree win online login</a><a class="dropdown-item" href="shree-win-login-problem.html"  >shree win login problem</a><a class="dropdown-item" href="shree-win-password-reset.html"  >shree win password reset</a><a class="dropdown-item" href="shree-win-official-login.html"  >shree win official login</a></div>
-</li>
-<li class="nav-item"><a class="yaf2f22f7b9b97b1713ed989306b3490a nav-link" rel=nofollow href="about-us.html">About Us</a>
-</li></ul>
+<a class="nav-link bb28afc29314fce49b76477b7b71c9505" href="about-us.html" rel="nofollow" >About Us</a></li>
+</ul>
 </div>
 </nav>
-<section class="container" style="min-height: 80vh;margin-top: 70px">
+<div>
+<section class="container">
 <h1>Privacy Policy for </h1>
 <p>At  one of our main priorities is the privacy of our visitors.
- This Privacy Policy document contains types of information that is collected and recorded by  and how we use it. You can check out our main website here: </p>
+This Privacy Policy document contains types of information that is collected and recorded by  and how we use it. You can check out our main website here: </p>
 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 <p>This Privacy Policy only applies to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in . This policy is not applicable to any information collected offline or via channels other than this website. </p>
 <h2>Consent</h2>
@@ -498,23 +325,32 @@ This website is owned and published by:
 </br>
 </p>
 </section>
+</div> 
 <footer>
-<div class="py-4 pt-5 container" >
-<div class="row"><div class="col-lg-3">
-<p>USEFUL LINKS</p>
-<p><a class="yaf2f22f7b9b97b1713ed989306b3490a" href="https://t.me/+gLj7Ha2MHU40YTQ5" rel="nofollow" target="_blank">shree win game</a></p></div><div class="col-lg-3"><p><a class="yaf2f22f7b9b97b1713ed989306b3490a" href="sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="yaf2f22f7b9b97b1713ed989306b3490a" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="yaf2f22f7b9b97b1713ed989306b3490a" href="about-us.html" rel="nofollow">About Us</a></p>
-</p>
-</div><div class="col-lg-3">
+<div class="container">
+<div class="row justify-content-center align-center"><div class="col-md-3">
+<h3 class="font-weight-bold uccdf34af8bb03cb292059ab951a0c62e">USEFUL LINKS</h3>
+<hr>
 <div>
-<p>Follow us</p>
-<a href="https://www.instagram.com/shreewinofficial07?stkn=dHhhb2Z3YjhvNjli" class="google xfbb7da14a4530c3e294a58bd59c150f4-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
+<ul>
+<li><a href="https://t.me/+gLj7Ha2MHU40YTQ5" rel="nofollow" target="_blank">shree win game</a></li></ul>
+</div>
+</div> 
+<div class="col-md-3">
+<ul>
+<li><a class="bb28afc29314fce49b76477b7b71c9505" href="sitemap.html" rel="nofollow">Sitemap</a></li>
+<li><a class="bb28afc29314fce49b76477b7b71c9505" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></li>
+<li><a class="bb28afc29314fce49b76477b7b71c9505" href="about-us.html" rel="nofollow">About Us</a></li>
+</ul></div></div><div class="col-md-3">
+<h3 class="font-weight-bold uccdf34af8bb03cb292059ab951a0c62e">Connect</h3>
+<hr>
+<div class="social"><p class="sub">Follow us</p>
+<a href="https://www.instagram.com/shreewinofficial07?stkn=dHhhb2Z3YjhvNjli" class="google-plus w18a78444f4bbed6d9bef5b0d1da6a5ec" rel="nofollow"><i class="fa fa-instagram"></i></a>
 </div>
 </div></div>
+<hr>
 </div>
-</footer> 
-<script type="text/javascript">
+</footer><script type="text/javascript">
 document.addEventListener('DOMContentLoaded', function() {
 var dropdowns = document.querySelectorAll('.dropdown-hover');
 function showDropdown() {
@@ -536,7 +372,7 @@ var dropdownMenu = dropdown.querySelector('.dropdown-toggle');
 dropdownMenu.addEventListener('click', handleClick);
 });
 });
-</script> 
+</script>
  <script>
 (function() {
   // Works with both BS4 (data-toggle events) and BS5
@@ -575,5 +411,6 @@ dropdownMenu.addEventListener('click', handleClick);
   });
 })();
 </script>
+</footer>
 </body>
 </html>
